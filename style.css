@@ -1,0 +1,11 @@
+h1 {
+  color: #ff0000;
+  background-color: #faebd6;
+}
+p {
+  color: #a42423;
+  font-weight: 100;
+}
+p + p {
+  color: #00008f;
+}
